@@ -8,7 +8,7 @@ flkhdsl***fhdsk***lfh<br>
  ## list
 
 ```
-khjghjkgh 
+who is the boss 
 ```
 ```html
 <h1> gizguzjg</h1> 
@@ -26,7 +26,10 @@ click [here](https://www.photopea.com/
 
 ## images
 ![](https://media.wired.com/photos/5a595516f11e325008172bcb/master/pass/BabyGlimpseBaby-640504936.jpg)
+<<<<<<< HEAD
 
 hello bitch 
 ------
 _________
+=======
+>>>>>>> 21c3408b2e561bef1ac7ec971ddf7b9e410b4284
